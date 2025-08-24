@@ -1,7 +1,7 @@
 {
   "name": "Manchester United Card",
   "content_in_root": true,
-  "filename": "card.js",
+  "filename": "manchester-united-card.js",
   "country": ["GB", "US"],
   "render_readme": true
 }
